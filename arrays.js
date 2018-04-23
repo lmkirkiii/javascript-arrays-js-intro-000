@@ -4,4 +4,3 @@ function addElementToBeginningOfArray(array,element){
   var array=[];
   array.push(element);
 }
-
