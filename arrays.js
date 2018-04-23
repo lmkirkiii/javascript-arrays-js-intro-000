@@ -22,7 +22,7 @@ function accessElementInArray(array,index){
   return array[index];
 }
 
-function destructivelyRemoveElementFromEndOfArray(array){
-  array.shift()
-  array
-}
+function destructivelyRemoveElementFromBeginningOfArray(array) {
+ array.shift()
+ array
+ }	
