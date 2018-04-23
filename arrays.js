@@ -5,7 +5,3 @@ function addElementToBeginningOfArray(array,element){
   array.unshift(element);
 }
 
-function addElementToBeginningOfArray(array,element){
-  var array=[];
-  array.push(element);
-}
